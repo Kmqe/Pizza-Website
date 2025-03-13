@@ -1,4 +1,4 @@
-# 🚀 My Awesome Web Project
+# 🚀 Pizza Website
 🔗**DEMO [visit](https://amazing-pizza-website.netlify.app/)**
 
 ## 📋 Overview
