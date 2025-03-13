@@ -1,5 +1,5 @@
 # 🚀 My Awesome Web Project
-🔗**DEMO** [visit](https://amazing-pizza-website.netlify.app/))
+🔗**DEMO [visit](https://amazing-pizza-website.netlify.app/)**
 
 ## 📋 Overview
 A simple website showcasing a variety of delicious pizza options. Browse through different pizza styles and discover your favorites.
